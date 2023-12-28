@@ -47,6 +47,10 @@ which means that as the farmers receive oLIT rewards, they get the right to buy 
 
 The tally also stays the same regardless of whether the farmer dumps the LIT gained from excercising the option on the market, since the farmer and the LP are one and the same. Because of this, we can assume that a lot of the farmers will not sell the LIT but lock it into vetoken and improve their yield.
 
+## Direct to pool rewards
+
+Bunni offers direct to pool incentives. To unlock this for your pool, please contact an admin via our official Discord.
+
 ## Links
 
 - [Source code](https://github.com/timeless-fi/options-token)
